@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/pwa/index.html",
+  "index": "/Pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/pwa/favicon.ico",
-        "/pwa/index.html",
-        "/pwa/main.b5c0048c346acd5d89d6.js",
-        "/pwa/polyfills.2f4a59095805af02bd79.js",
-        "/pwa/runtime.a66f828dca56eeb90e02.js",
-        "/pwa/styles.34c57ab7888ec1573f9c.css"
+        "/Pwa/favicon.ico",
+        "/Pwa/index.html",
+        "/Pwa/main.b5c0048c346acd5d89d6.js",
+        "/Pwa/polyfills.2f4a59095805af02bd79.js",
+        "/Pwa/runtime.a66f828dca56eeb90e02.js",
+        "/Pwa/styles.34c57ab7888ec1573f9c.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/pwa/assets/icons/icon-128x128.png",
-        "/pwa/assets/icons/icon-144x144.png",
-        "/pwa/assets/icons/icon-152x152.png",
-        "/pwa/assets/icons/icon-192x192.png",
-        "/pwa/assets/icons/icon-384x384.png",
-        "/pwa/assets/icons/icon-512x512.png",
-        "/pwa/assets/icons/icon-72x72.png",
-        "/pwa/assets/icons/icon-96x96.png"
+        "/Pwa/assets/icons/icon-128x128.png",
+        "/Pwa/assets/icons/icon-144x144.png",
+        "/Pwa/assets/icons/icon-152x152.png",
+        "/Pwa/assets/icons/icon-192x192.png",
+        "/Pwa/assets/icons/icon-384x384.png",
+        "/Pwa/assets/icons/icon-512x512.png",
+        "/Pwa/assets/icons/icon-72x72.png",
+        "/Pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pwa/index.html": "291fd760188a8c0a3e8b10e8776adcc48b3ef5b6",
-    "/pwa/main.b5c0048c346acd5d89d6.js": "502cfc19db65278a0a4ebec022b5b918768a732b",
-    "/pwa/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
-    "/pwa/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/pwa/styles.34c57ab7888ec1573f9c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/Pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/Pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/Pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/Pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/Pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/Pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/Pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/Pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/Pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/Pwa/index.html": "86b1910bf21abcb7e25cf55f095e7b1ce35fc737",
+    "/Pwa/main.b5c0048c346acd5d89d6.js": "502cfc19db65278a0a4ebec022b5b918768a732b",
+    "/Pwa/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
+    "/Pwa/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/Pwa/styles.34c57ab7888ec1573f9c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
